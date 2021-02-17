@@ -1,0 +1,16 @@
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\lwine\Documents\VS code\Programmering 2\Övningar\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache

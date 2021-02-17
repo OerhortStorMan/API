@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bBaSIJjGmY5gTKXGrvGnD1tTPoCpEqJobeKmP/wJ/ga0zkxZVKZ9QyZy5J68K7C0aElD6yxcJg/Xc6oMkdF4fQ==",
+  "dgSpecHash": "E2OQF7cXqn60JPZpzbSLXkvVU2GuBdX3CdkDx0wUm1sJuvRL92PpKYbzD9MZ3p9iu3tPFeie5Bnmdq71TeZQvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lwine\\Documents\\VS code\\Programmering 2\\Övningar\\API\\API\\API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lwine\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lwine\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
   "logs": []
 }
